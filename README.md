@@ -1,4 +1,6 @@
-# lazy-load-example
+# DEPRECATED
+
+# ~~lazy-load-example~~
 
 ## Project setup
 ```
